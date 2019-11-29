@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-login",
+  "version": "1.0.0",
+  "description": "Page Login",
+  "main": "webpack.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwanna1773/reactjs-login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwanna1773/reactjs-login/issues"
+  },
+  "homepage": "https://github.com/iwanna1773/reactjs-login#readme"
+}
